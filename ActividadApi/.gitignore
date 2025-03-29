@@ -1,0 +1,8 @@
+﻿# Ignorar archivos y carpetas de Rider
+.idea/
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+
